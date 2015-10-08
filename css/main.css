@@ -1,0 +1,70 @@
+
+h1{
+	font-weight: bolder;
+}
+.contenido{
+	padding-top: 31px;
+}
+.noticia{
+	margin-left: 30px;
+}
+ul{
+	list-style-type: none;
+	background-color: #ccc;
+	padding-top: 50px;
+	text-align: left;
+	width: 1030px;
+}
+.menu{
+	background-color: #ccc;
+}
+li{
+	display: inline-block;
+	margin-left: 30px;
+	height: 30px;
+	padding: 1%;
+}
+li:hover{
+	background-color: white;
+	cursor: pointer;
+}
+.historia{
+	background-color: #808080;
+	padding: 2%;
+	width: 200px;
+	margin-left: 80px;
+	border: 3px solid #A9A9A9;
+	color: white;
+	font-size: 20px;
+}
+.articulo{
+	margin-left: 68px;
+    margin-top: 21px;
+}
+.lrm{
+	margin-top: 60px;
+	margin-left: -575px;
+	font-size: 30px;
+}
+p{
+	width: 577px;
+	margin-left: 60px;
+}
+.icons{
+	width: 130px;
+	margin-left: 45px;
+	display: inline-block;
+}
+.lorem{
+	text-decoration: underline;
+}
+.eti{
+	margin-left: -110px;
+}
+.etiqueta{
+	width: 490px;
+	display: inline-block;
+	margin-top: 100px;
+	margin-left: -374px;
+	border-bottom: 2px solid #ccc;
+}
